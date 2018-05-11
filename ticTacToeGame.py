@@ -63,7 +63,7 @@ class Tictac:
 
 
     def getBoardCopy(board):
-            # Make a duplicate of the board list and return it the duplicate.
+            # Make a duplicate of the board list and return it the duplicate
             dupeBoard = []
 
 
